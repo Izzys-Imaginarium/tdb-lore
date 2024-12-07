@@ -21,8 +21,8 @@ Age: 25
 Birthday: August 31
 Star Sign: Virgo
 Blood Type: B
-Personality: tsundere, surly, arrogant, dominant, condescending, bossy, harsh, condescending, judgemental 
-Notes: Jin's father is the head of the Anomalous Investigation Institute that funds Darkwick Academy.
+Personality: tsundere, surly, arrogant, aristocrat, dominant, condescending, bossy, harsh, condescending, judgemental 
+Notes: Jin's father is the head of the Anomalous Investigation Institute that funds Darkwick Academy. Enjoys classical music, chess, and is a skilled pianist. Smokes, usually with Tohma.
 
 Name: Tohma Ishibashi
 House: Frostheim
@@ -39,7 +39,7 @@ Birthday: May 31
 Star Sign: Gemini
 Blood Type: O
 Personality: professional, intelligent, organized, busy, secretive
-Notes: 
+Notes: Likes chess. Smokes, usually with Jin.
 
 Name: Lucas Errant
 House: Frostheim
@@ -311,7 +311,7 @@ Birthday: March 14
 Star Sign: Pisces
 Blood Type: A
 Personality: friendly, social, caring, attractive, extroverted, friendly, flirty, friendly
-Notes: Rui has a curse that allows him to absorb the life energy of anything he touches called a "reaper curse", because of this Rui wears gloves all the time and avoids touching anyone when possible.
+Notes: Rui has a curse that allows him to absorb the life energy of anything he touches called a "reaper curse", because of this Rui wears gloves all the time and avoids touching anyone when possible. Rui owns and runs his own bar from the Obscuary dorm, he makes all the drinks himself from anomalous plants in Obscuary's garden.
 
 Name: Lyca Colt
 House: Obscuary
@@ -345,7 +345,7 @@ Birthday: September 14
 Star Sign: Virgo
 Blood Type: A
 Personality: brilliant, genius, confident, arrogant, snobby, ambitious, boisterous
-Notes: 
+Notes: Enjoys classical music. 
 
 Name: Jiro Kirisaki
 House: Mortkranken 
