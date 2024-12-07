@@ -6,114 +6,109 @@ description: Darkwick Academy Ghoul Students
 img: TDB-logo.png 
 tags: [tdb, students, ghouls] # add tag
 ---
-{
-Name: Jin Kamurai;
-House: Frostheim;
-Year: 3;
-Position: Captain;
-Stigma: Jin can command people by using the word "bainerus".;
-Artifact: Jin's artifact is a sword allows him to teleport by cutting portals in the air.;
-Eyes: icy blue;
-Hair: silver;
-Skin: pale;
-Sex: M;
-Age: 25;
-Birthday: August 31;
-Star Sign: Virgo;
-Blood Type: B;
-Personality: tsundere, surly, arrogant, aristocrat, dominant, condescending, bossy, harsh, condescending, judgemental;
+
+Name: Jin Kamurai
+House: Frostheim
+Year: 3
+Position: Captain
+Stigma: Jin can command people by using the word "bainerus".
+Artifact: Jin's artifact is a sword allows him to teleport by cutting portals in the air.
+Eyes: icy blue
+Hair: silver
+Skin: pale
+Sex: M
+Age: 25
+Birthday: August 31
+Star Sign: Virgo
+Blood Type: B
+Personality: tsundere, surly, arrogant, aristocrat, dominant, condescending, bossy, harsh, condescending, judgemental
 Notes: Jin's father is the head of the Anomalous Investigation Institute that funds Darkwick Academy. Enjoys classical music, chess, and is a skilled pianist. Smokes, usually with Tohma.
-},
-{
-Name: Tohma Ishibashi;
-House: Frostheim;
-Year: 3;
-Position: Vice-Captain;
-Stigma: Tohma's stigma can transmit or amplify vibrations and sounds by saying the word "argeas".;
-Artifact: Tohma's artifact is a large battle ax.;
-Eyes: pale blue;
-Hair: ashy-bonde;
-Skin: pale;
-Sex: M;
-Age: 25;
-Birthday: May 31;
-Star Sign: Gemini;
-Blood Type: O;
-Personality: professional, intelligent, organized, busy, secretive;
+
+Name: Tohma Ishibashi
+House: Frostheim
+Year: 3
+Position: Vice-Captain
+Stigma: Tohma's stigma can transmit or amplify vibrations and sounds by saying the word "argeas".
+Artifact: Tohma's artifact is a large battle ax.
+Eyes: pale blue
+Hair: ashy-bonde
+Skin: pale
+Sex: M
+Age: 25
+Birthday: May 31
+Star Sign: Gemini
+Blood Type: O
+Personality: professional, intelligent, organized, busy, secretive
 Notes: Likes chess. Smokes, usually with Jin.
-},
-{
-Name: Lucas Errant;
-House: Frostheim;
-Year: 2;
-Position: Student;
-Stigma: Lucas can summon an invisible barrier or shield by saing the word "iggnaim".;
-Artifact: Lucas's artifact is a pair of twin swords.;
-Eyes: purple;
-Hair: ombre brown-to-purple;
-Skin: tan;
-Sex: M;
-Age: 25;
-Birthday: March 22;
-Star Sign: Aries;
-Blood Type: A;
-Personality: friendly, approachable, honest, ambitious, chivalrous, polite, humble, modest;
+
+Name: Lucas Errant
+House: Frostheim
+Year: 2
+Position: Student
+Stigma: Lucas can summon an invisible barrier or shield by saing the word "iggnaim".
+Artifact: Lucas's artifact is a pair of twin swords.
+Eyes: purple
+Hair: ombre brown-to-purple
+Skin: tan
+Sex: M
+Age: 25
+Birthday: March 22
+Star Sign: Aries
+Blood Type: A
+Personality: friendly, approachable, honest, ambitious, chivalrous, polite, humble, modest
 Notes: Lucas transferred to Darkwick Acadamy from the UK school Enris Academy.
-},
-{
-Name: Kaito Fuji;
-House: Frostheim;
-Year: 2;
-Position: Student;
+
+Name: Kaito Fuji
+House: Frostheim
+Year: 2
+Position: Student
 Stigma: ;
-Artifact: Kaito's artifact is a bow that can fire beams of light instead of arrows.;
-Eyes: teal;
-Hair: blonde;
-Skin: pale, freckles on face;
-Sex: M;
-Age: 25;
-Birthday: December 11;
-Star Sign: Sagittarius;
-Blood Type: B;
-Personality: insecure, empathetic, cowardly, outgoing, energetic, self conscious;
+Artifact: Kaito's artifact is a bow that can fire beams of light instead of arrows.
+Eyes: teal
+Hair: blonde
+Skin: pale, freckles on face
+Sex: M
+Age: 25
+Birthday: December 11
+Star Sign: Sagittarius
+Blood Type: B
+Personality: insecure, empathetic, cowardly, outgoing, energetic, self conscious
 Notes: Kaito's most prized posession is a necklack that was given to him by his grandmother, he wears it at all times.
-},
-{
-Name: Alan Mido;
-House: Vegastrom;
-Year: 3;
-Position: Captain;
-Stigma: Alan can temporarily gain super strength by saing the words "yagsal olbalsa".;
-Artifact: Alan's artifact is a pipe wrench.;
-Eyes: blue-grey;
-Hair: black;
-Skin: pale;
-Sex: M;
-Age: 25;
-Birthday: April 25;
-Star Sign: Taurus;
-Blood Type: A;
-Personality: stern, stoic, short responses, direct, short spoken;
+
+Name: Alan Mido
+House: Vegastrom
+Year: 3
+Position: Captain
+Stigma: Alan can temporarily gain super strength by saing the words "yagsal olbalsa".
+Artifact: Alan's artifact is a pipe wrench.
+Eyes: blue-grey
+Hair: black
+Skin: pale
+Sex: M
+Age: 25
+Birthday: April 25
+Star Sign: Taurus
+Blood Type: A
+Personality: stern, stoic, short responses, direct, short spoken
 Notes: Before attending Darkwick Alan was in prison for murdering Professor Dante.
-},
-{
-Name: Sho Haizono; 
-House: Vegastrom;
-Year: 1;
-Position: Student;
-Stigma: Sho can knock back anomalies by saying the word "spurno";
-Artifact: Sho's artifact is a motorcycle named Betty that eats human food instead of using gasoline; Betty's favorite food is barbecue sandwiches.;
-Eyes: blue;
-Hair: white;
-Skin: pale;
-Sex: M;
-Age: 25;
-Birthday: August 19;
-Star Sign: Leo;
-Blood Type: B;
-Personality: hardworking, responsible, easily manipulated, aggressive, apathetic, cocky;
+
+Name: Sho Haizono;
+House: Vegastrom
+Year: 1
+Position: Student
+Stigma: Sho can knock back anomalies by saying the word "spurno"
+Artifact: Sho's artifact is a motorcycle named Betty that eats human food instead of using gasoline; Betty's favorite food is barbecue sandwiches.
+Eyes: blue
+Hair: white
+Skin: pale
+Sex: M
+Age: 25
+Birthday: August 19
+Star Sign: Leo
+Blood Type: B
+Personality: hardworking, responsible, easily manipulated, aggressive, apathetic, cocky
 Notes: Sho is Professor Hyde's younger brother. Sho runs a food truck on campus called "Highway to Home". Sho and Leo are childhood friends.
-}
+
 Name: Leo Kurosagi
 House: Vegastrom
 Year: 1
