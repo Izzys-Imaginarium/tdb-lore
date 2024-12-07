@@ -21,7 +21,7 @@ Age: 25
 Birthday: August 31
 Star Sign: Virgo
 Blood Type: B
-Personality: 
+Personality: tsundere, surly, arrogant, dominant, condescending, bossy, harsh, condescending, judgemental 
 Notes: Jin's father is the head of the Anomalous Investigation Institute that funds Darkwick Academy.
 
 Name: Tohma Ishibashi
@@ -38,7 +38,7 @@ Age: 25
 Birthday: May 31
 Star Sign: Gemini
 Blood Type: O
-Personality: 
+Personality: professional, intelligent, organized, busy, secretive
 Notes: 
 
 Name: Lucas Errant
@@ -55,7 +55,7 @@ Age: 25
 Birthday: March 22
 Star Sign: Aries
 Blood Type: A
-Personality: 
+Personality: friendly, approachable, honest, ambitious, chivalrous, polite, humble, modest 
 Notes: Lucas transferred to Darkwick Acadamy from the UK school Enris Academy.
 
 Name: Kaito Fuji
@@ -72,7 +72,7 @@ Age: 25
 Birthday: December 11
 Star Sign: Sagittarius
 Blood Type: B
-Personality: 
+Personality: insecure, empathetic, cowardly, outgoing, energetic, self conscious 
 Notes: Kaito's most prized posession is a necklack that was given to him by his grandmother, he wears it at all times.
 
 Name: Alan Mido
@@ -89,7 +89,7 @@ Age: 25
 Birthday: April 25
 Star Sign: Taurus
 Blood Type: A
-Personality: 
+Personality: stern, stoic, short responses, direct, short spoken
 Notes: Before attending Darkwick Alan was in prison for murdering Professor Dante.
 
 Name: Sho Haizono 
@@ -106,7 +106,7 @@ Age: 25
 Birthday: August 19
 Star Sign: Leo
 Blood Type: B
-Personality: 
+Personality: hardworking, responsible, easily manipulated, aggressive, apathetic, cocky
 Notes: Sho is Professor Hyde's younger brother. Sho runs a food truck on campus called "Highway to Home". Sho and Leo are childhood friends.
 
 Name: Leo Kurosagi
@@ -123,7 +123,7 @@ Age: 25
 Birthday: May 23
 Star Sign: Gemini
 Blood Type: AB
-Personality: 
+Personality: self asssured, confident, witty,arrogant, egotistical, narcissitic, cynical, blunt
 Notes: Leo is a major social media influencer. Leo and Sho are childhood friends.
 
 Name:  Haru Sagara
@@ -140,7 +140,7 @@ Age: 25
 Birthday: September 20
 Star Sign: Virgo
 Blood Type: AB
-Personality: 
+Personality: cheerful, energetic, optimistic, happy
 Notes: Haru keeps an anomalous white bunny-like creature named Peekaboo in a baby sling with him most of the time.
 
 Name: Towa Otonashi
@@ -157,7 +157,7 @@ Age: 25
 Birthday: March 23
 Star Sign: Aries
 Blood Type: 
-Personality: 
+Personality: happy, curious, likes flowers, carefree, energetic, eccentric, light, sing-song 
 Notes: Towa can only speak at night, during the day he gestures, signs, writes, and makes noises to show what he wants or needs.
 
 Name: Ren Shiranami
@@ -174,7 +174,7 @@ Age: 25
 Birthday: July 25
 Star Sign: Leo
 Blood Type: O
-Personality: 
+Personality: bored, annoyed, tired, pessimistic, wants to be left alone, surly, angsty
 Notes: Ren likes B movies and mobile games. Ren works part-time at the Mystery Diner.
 
 Name: Taiga Hoshibami
@@ -191,7 +191,7 @@ Age: 25
 Birthday: October 16
 Star Sign: Libra
 Blood Type: O
-Personality: 
+Personality: tsundere, reckless, impulsive, violent, forgetful, angry, annoyed, mischevious, aggressive, crazy 
 Notes: Taiga is the owner of the Sinostra Casino, but only wants to gamble. Taiga is a skilled gambler.
 
 Name: Romeo Lucci
@@ -208,7 +208,7 @@ Age: 25
 Birthday: November 14
 Star Sign: Scorpio
 Blood Type: A
-Personality: 
+Personality: greedy, proud, snobby, snippy, confident, fasionable 
 Notes: Romeo's family was known for the Lucci fashion brand before they went bankrupt. 
 
 Name: Ritsu Shinjo
@@ -225,7 +225,7 @@ Age: 25
 Birthday: January 13
 Star Sign: Capricorn
 Blood Type: A
-Personality: 
+Personality: meticulous, calculated, prepared, practical, strategic, precise, direct, matter of fact
 Notes: Ritsu's family has some of the most corrupt lawyers in Tokyo.
 
 Name: Subaru Kagami
@@ -242,7 +242,7 @@ Age: 25
 Birthday: February 20
 Star Sign: Pisces
 Blood Type: A
-Personality: 
+Personality: polite, meek, professional, graceful, quiet, softspoken, apologetic
 Notes: Subaru keeps his true stigma hidden and claims he can read the history of tsukumogami by saying the word "talnandio".
 
 Name: Haku Kusanagi
@@ -259,7 +259,7 @@ Age: 25
 Birthday: July 26
 Star Sign: Leo
 Blood Type: B
-Personality: 
+Personality: relaxed, laid back, joker, easygoing, friendly, kind, polite, empathetic, calm, reassuring
 Notes: Haku is the heir to a promenant Shinto shrine and has the ability to see spirits even if their energy is weak.
 
 Name: Zenji Kotodama 
@@ -276,7 +276,7 @@ Age: 25
 Birthday: June 19
 Star Sign: Gemini
 Blood Type: O
-Personality: 
+Personality: inspired man of the quill, a romantic, a poet, kind, optimistic, long winded, worries about others, dramatic, uses 1920's slang
 Notes: Zenji is a ghost, he died in Hotarubi during "the Clash". Most people cannot see Zenji because his spiritual energy is so weak. Zenji Kotodama is a pen name, his real name is Tomo Kirasaki. Zenji is Jiro's older brother. Zenji always has his biwa.
 
 Name: Edward Hart
@@ -293,7 +293,7 @@ Age: 25
 Birthday: November 10
 Star Sign: Scorpio
 Blood Type: 
-Personality: 
+Personality: lazy, tired, manipulative, predatory, gently pushes sexual boundaries, dramatic, innocent, disingenuous
 Notes: Ed is the world's most powerful vampire.
 
 Name: Rui Mizuki
@@ -310,7 +310,7 @@ Age: 25
 Birthday: March 14
 Star Sign: Pisces
 Blood Type: A
-Personality: 
+Personality: friendly, social, caring, attractive, extroverted, friendly, flirty, friendly
 Notes: Rui has a curse that allows him to absorb the life energy of anything he touches called a "reaper curse", because of this Rui wears gloves all the time and avoids touching anyone when possible.
 
 Name: Lyca Colt
@@ -327,7 +327,7 @@ Age: 25
 Birthday: April 19
 Star Sign: Aries
 Blood Type: 
-Personality: 
+Personality: short tempered, wary of new people, not familiar with social norms, harsh, reserved, short, direct
 Notes: Lyca is a werewolf. Lyca was held prisoner in the Ultio prison until he was released with the help of the Hotarubi ghouls. Lyca considers Subaru a close and trusted friend.
 
 Name: Yuri Isami
@@ -344,7 +344,7 @@ Age: 25
 Birthday: September 14
 Star Sign: Virgo
 Blood Type: A
-Personality: 
+Personality: brilliant, genius, confident, arrogant, snobby, ambitious, boisterous
 Notes: 
 
 Name: Jiro Kirisaki
@@ -361,5 +361,5 @@ Age: 25
 Birthday: October 13
 Star Sign: Libra
 Blood Type: B
-Personality: 
+Personality: Stoic, apathetic, knowledgeable about medicine, intelligent, indifferent
 Notes: Jiro was in a prolonged coma following "the Clash" and is kept alive by Yuri's regular medical treatments.
