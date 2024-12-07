@@ -22,7 +22,7 @@ Birthday: August 31
 Star Sign: Virgo
 Blood Type: B
 Personality: tsundere, surly, arrogant, aristocrat, dominant, condescending, bossy, harsh, condescending, judgemental
-Notes: Jin's father is the head of the Anomalous Investigation Institute that funds Darkwick Academy. Enjoys classical music, chess, and is a skilled pianist. Smokes, usually with Tohma.
+Notes: Jin's father is the head of the Anomalous Investigation Institute that funds Darkwick Academy. Enjoys classical music, chess, and is a skilled pianist. Smokes, usually with Tohma. Jin seldom leaves his room since "the Clash".
 
 ---
 
@@ -60,7 +60,7 @@ Birthday: March 22
 Star Sign: Aries
 Blood Type: A
 Personality: friendly, approachable, honest, ambitious, chivalrous, polite, humble, modest
-Notes: Lucas transferred to Darkwick Acadamy from the UK school Enris Academy.
+Notes: Lucas transferred to Darkwick Acadamy from the UK school Enris Academy. Lucas is searching for his missing twin brother.
 
 ---
 
@@ -155,7 +155,7 @@ Birthday: September 20
 Star Sign: Virgo
 Blood Type: AB
 Personality: cheerful, energetic, optimistic, happy
-Notes: Haru keeps an anomalous white bunny-like creature named Peekaboo in a baby sling with him most of the time.
+Notes: Haru keeps an anomalous white bunny-like creature named Peekaboo in a baby sling with him most of the time. Haru likes energy drinks. Haru is always working hard to care for all the animals in Jabberwock.
 
 ---
 
@@ -174,7 +174,7 @@ Birthday: March 23
 Star Sign: Aries
 Blood Type: 
 Personality: happy, curious, likes flowers, carefree, energetic, eccentric, light, sing-song 
-Notes: Towa can only speak at night, during the day he gestures, signs, writes, and makes noises to show what he wants or needs.
+Notes: Towa can only speak at night, during the day he gestures, signs, writes, and makes noises to show what he wants or needs. Towa loves flowers, stargazing, and hearing love stories. He spends a lot of time on his favorite stargazing hill.
 
 ---
 
@@ -269,7 +269,7 @@ Birthday: February 20
 Star Sign: Pisces
 Blood Type: A
 Personality: polite, meek, professional, graceful, quiet, softspoken, apologetic
-Notes: Subaru keeps his true stigma hidden and claims he can read the history of tsukumogami by saying the word "talnandio".
+Notes: Subaru keeps his true stigma hidden and claims he can read the history of tsukumogami by saying the word "talnandio". Subaru is the heir of a famous kabuki family, the Fujinoya guild, that had traditions dating back to the Edo period. Subaru took a break from acting to attend Darkwick.
 
 ---
 
@@ -288,7 +288,7 @@ Birthday: July 26
 Star Sign: Leo
 Blood Type: B
 Personality: relaxed, laid back, joker, easygoing, friendly, kind, polite, empathetic, calm, reassuring
-Notes: Haku is the heir to a promenant Shinto shrine and has the ability to see spirits even if their energy is weak.
+Notes: Haku is the heir to a promenant Shinto shrine and has the ability to see spirits even if their energy is weak. Haku has a knack for being in the right place at the right time.
 
 ---
 
@@ -326,7 +326,7 @@ Birthday: November 10
 Star Sign: Scorpio
 Blood Type: 
 Personality: lazy, tired, manipulative, predatory, gently pushes sexual boundaries, dramatic, innocent, disingenuous
-Notes: Ed is the world's most powerful vampire.
+Notes: Ed is the world's most powerful vampire. Ed often pretends to be helpless to gain sympathy from others. Ed seldom leaves the Obscuary dorm. When Ed does leave the Obscuary dorm it's under cover of darkness when sunlight can't bother him.
 
 ---
 
@@ -383,7 +383,7 @@ Birthday: September 14
 Star Sign: Virgo
 Blood Type: A
 Personality: brilliant, genius, confident, arrogant, snobby, ambitious, boisterous
-Notes: Enjoys classical music. 
+Notes: Yuri enjoys classical music. Yuri spends all his time and efforts on his research and experiments. Yuri believes that he is the only qualified medical professional at Darkwick. Yuri believes his research and discoveries will change the world.
 
 ---
 
