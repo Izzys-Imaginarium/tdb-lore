@@ -82,157 +82,157 @@ Star Sign: Taurus
 Blood Type: A
 Notes: Before attending Darkwick Alan was in prison for murdering Professor Dante.
 
-Name: 
-House: 
-Year: 
-Position: 
-Stigma: 
-Artifact: 
+Name: Sho Haizono 
+House: Vegastrom
+Year: 1
+Position: Student
+Stigma: Sho can knock back anomalies by saying the word "spurno"
+Artifact: Sho's artifact is a motorcycle named Betty that eats human food instead of using gasoline; Betty's favorite food is barbecue sandwiches.
 Eyes: 
 Hair: 
 Sex: M
 Age: 25
-Birthday: 
-Star Sign: 
-Blood Type: 
-Notes: 
+Birthday: August 19
+Star Sign: Leo
+Blood Type: B
+Notes: Sho is Professor Hyde's younger brother. Sho runs a food truck on campus called "Highway to Home". Sho and Leo are childhood friends.
 
-Name: 
-House: 
-Year: 
-Position: 
-Stigma: 
-Artifact: 
+Name: Leo Kurosagi
+House: Vegastrom
+Year: 1
+Position: Vice-Captain 
+Stigma: Leo can temporarily enhance his hearing by saying the word "haxs"
+Artifact: Leo's artifact is bubblegum that can create explosive bubbles.
 Eyes: 
 Hair: 
 Sex: M
 Age: 25
-Birthday: 
-Star Sign: 
-Blood Type: 
-Notes: 
+Birthday: May 23
+Star Sign: Gemini
+Blood Type: AB
+Notes: Leo is a major social media influencer. Leo and Sho are childhood friends.
 
-Name: 
-House: 
-Year: 
-Position: 
-Stigma: 
-Artifact: 
+Name:  Haru Sagara
+House: Jabberwock
+Year: 3
+Position: Captain 
+Stigma: Haru can reduce the effects of gravity on his body giving him super speed by saying the word "bahnti".
+Artifact: Haru's artifact is a pushbroom.
 Eyes: 
 Hair: 
 Sex: M
 Age: 25
-Birthday: 
-Star Sign: 
-Blood Type: 
-Notes: 
+Birthday: September 20
+Star Sign: Virgo
+Blood Type: AB
+Notes: Haru keeps an anomalous white bunny-like creature named Peekaboo in a baby sling with him most of the time.
 
-Name: 
-House: 
-Year: 
-Position: 
-Stigma: 
-Artifact: 
+Name: Towa Otonashi
+House: Jabberwock
+Year: 2
+Position: Vice-Captain 
+Stigma: Towa can change the weather and summon lightning strikes.
+Artifact: Towa's artifact is a magic bubble wand that creates explosive bubbles alongside normal bubbles.
 Eyes: 
 Hair: 
 Sex: M
 Age: 25
-Birthday: 
-Star Sign: 
+Birthday: March 23
+Star Sign: Aries
 Blood Type: 
-Notes: 
+Notes: Towa can only speak at night, during the day he gestures, signs, writes, and makes noises to show what he wants or needs.
 
-Name: 
-House: 
-Year: 
-Position: 
-Stigma: 
-Artifact: 
+Name: Ren Shiranami
+House: Jabberwock
+Year: 1
+Position: Student
+Stigma: Ren can make things invisible by saying the word "raothtas"
+Artifact: Ren's artifact is a swim ring that can expand or shrink in size.
 Eyes: 
 Hair: 
 Sex: M
 Age: 25
-Birthday: 
-Star Sign: 
-Blood Type: 
-Notes: 
+Birthday: July 25
+Star Sign: Leo
+Blood Type: O
+Notes: Ren likes B movies and mobile games. Ren works part-time at the Mystery Diner.
 
-Name: 
-House: 
-Year: 
-Position: 
-Stigma: 
-Artifact: 
+Name: Taiga Hoshibami
+House: Sinostra
+Year: 3
+Position: Captain
+Stigma: Taiga can slow time by saying the word "malab".
+Artifact: Taiga's artifact is a machine gun that can fire glass shards instead of bullets.
 Eyes: 
 Hair: 
 Sex: M
 Age: 25
-Birthday: 
-Star Sign: 
-Blood Type: 
-Notes: 
+Birthday: October 16
+Star Sign: Libra
+Blood Type: O
+Notes: Taiga is the owner of the Sinostra Casino, but only wants to gamble. Taiga is a skilled gambler.
 
-Name: 
-House: 
-Year: 
-Position: 
-Stigma: 
-Artifact: 
+Name: Romeo Lucci
+House: Sinostra
+Year: 3
+Position: Vice-Captain
+Stigma: Romeo can turn items into bombs by saying the word "tiris".
+Artifact: Romeo's artifact is a sniper rifle.
 Eyes: 
 Hair: 
 Sex: M
 Age: 25
-Birthday: 
-Star Sign: 
-Blood Type: 
-Notes: 
+Birthday: November 14
+Star Sign: Scorpio
+Blood Type: A
+Notes: Romeo's family was known for the Lucci fashion brand before they went bankrupt. 
 
-Name: 
-House: 
-Year: 
-Position: 
-Stigma: 
-Artifact: 
+Name: Ritsu Shinjo
+House: Sinostra 
+Year: 1
+Position: Student
+Stigma: Ritsu can make his skin thick enough to deflect bullets and make himself harder to move by increasing the weight of his body by saing the word "acimo".
+Artifact: Ritsu's artifact is a Compendium of Law, aside from being used for reference it can also be used to bludgeon people or anomalies. 
 Eyes: 
 Hair: 
 Sex: M
 Age: 25
-Birthday: 
-Star Sign: 
-Blood Type: 
-Notes: 
+Birthday: January 13
+Star Sign: Capricorn
+Blood Type: A
+Notes: Ritsu's family has some of the most corrupt lawyers in Tokyo.
 
-Name: 
-House: 
-Year: 
-Position: 
-Stigma: 
-Artifact: 
+Name: Subaru Kagami
+House: Hotarubi
+Year: 3
+Position: Captain
+Stigma: Subaru has an ability called psychometry that allows him to sense the thoughts and history of others by touching them.
+Artifact: Subaru's artifact is a parasol.
 Eyes: 
 Hair: 
 Sex: M
 Age: 25
-Birthday: 
-Star Sign: 
-Blood Type: 
-Notes: 
+Birthday: February 20
+Star Sign: Pisces
+Blood Type: A
+Notes: Subaru keeps his true stigma hidden and claims he can read the history of tsukumogami by saying the word "talnandio".
 
-Name: 
-House: 
-Year: 
-Position: 
+Name: Haku Kusanagi
+House: Hotarubi
+Year: 3
+Position: Vice-Captain
 Stigma: 
-Artifact: 
+Artifact: Haku's artifact is a flute that can put listeners to sleep or hypnotize them when he plays.
 Eyes: 
 Hair: 
 Sex: M
 Age: 25
-Birthday: 
-Star Sign: 
-Blood Type: 
-Notes: 
+Birthday: July 26
+Star Sign: Leo
+Blood Type: B
+Notes: Haku is the heir to a promenant Shinto shrine and has the ability to see spirits even if their energy is weak.
 
-Name: 
+Name:  
 House: 
 Year: 
 Position: 
