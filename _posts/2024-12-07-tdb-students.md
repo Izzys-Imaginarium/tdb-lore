@@ -232,92 +232,92 @@ Star Sign: Leo
 Blood Type: B
 Notes: Haku is the heir to a promenant Shinto shrine and has the ability to see spirits even if their energy is weak.
 
-Name:  
-House: 
-Year: 
-Position: 
+Name: Zenji Kotodama 
+House: Hotarubi 
+Year: 3
+Position: Student
 Stigma: 
-Artifact: 
+Artifact: Zenji has a sentient doll that protects him.
 Eyes: 
 Hair: 
 Sex: M
 Age: 25
-Birthday: 
-Star Sign: 
+Birthday: June 19
+Star Sign: Gemini
+Blood Type: O
+Notes: Zenji is a ghost, he died in Hotarubi during "the Clash". Most people cannot see Zenji because his spiritual energy is so weak. Zenji Kotodama is a pen name, his real name is Tomo Kirasaki. Zenji is Jiro's older brother. Zenji always has his biwa.
+
+Name: Edward Hart
+House: Obscuary
+Year: 3
+Position: Captain
+Stigma: Ed can summon a cloud of pink mist that hypnotizes or puts to sleep anyone within it.
+Artifact: Ed's artifact is a cane.
+Eyes: 
+Hair: 
+Sex: M
+Age: 25
+Birthday: November 10
+Star Sign: Scorpio
 Blood Type: 
+Notes: Ed is the world's most powerful vampire.
+
+Name: Rui Mizuki
+House: Obscuary
+Year: 3
+Position: Vice-Captain
+Stigma: Rui can temporarily relieve pain by blowing kisses at the injured area.
+Artifact: Rui's artifact is a scyth that lets him hide in shadows and remain unseen.
+Eyes: 
+Hair: 
+Sex: M
+Age: 25
+Birthday: March 14
+Star Sign: Pisces
+Blood Type: A
+Notes: Rui has a curse that allows him to absorb the life energy of anything he touches called a "reaper curse", because of this Rui wears gloves all the time and avoids touching anyone when possible.
+
+Name: Lyca Colt
+House: Obscuary
+Year: 1
+Position: Student
+Stigma: Lyca can enhance his sense of smell and track familiar smells by saying "ramsochisa".
+Artifact: Lyca's artifact is a set of steel claws he can use to dig in the ground and attack people and anomalies.
+Eyes: 
+Hair: 
+Sex: M
+Age: 25
+Birthday: April 19
+Star Sign: Aries
+Blood Type: 
+Notes: Lyca is a werewolf. Lyca was held prisoner in the Ultio prison until he was released with the help of the Hotarubi ghouls. Lyca considers Subaru a close and trusted friend.
+
+Name: Yuri Isami
+House: Mortkranken
+Year: 2
+Position: Captain
+Stigma: Yuri can summon bursts of super intelligence by saying the word "agnihaet".
+Artifact: Yuri's artifact is a syringe.
+Eyes: 
+Hair: 
+Sex: M
+Age: 25
+Birthday: September 14
+Star Sign: Virgo
+Blood Type: A
 Notes: 
 
-Name: 
-House: 
-Year: 
-Position: 
+Name: Jiro Kirisaki
+House: Mortkranken 
+Year: 2
+Position: Vice-Captain
 Stigma: 
-Artifact: 
+Artifact: Jiro's artifact is a chainsaw.
 Eyes: 
 Hair: 
 Sex: M
 Age: 25
-Birthday: 
-Star Sign: 
+Birthday: October 13
+Star Sign: Libra
 Blood Type: 
-Notes: 
-
-Name: 
-House: 
-Year: 
-Position: 
-Stigma: 
-Artifact: 
-Eyes: 
-Hair: 
-Sex: M
-Age: 25
-Birthday: 
-Star Sign: 
-Blood Type: 
-Notes: 
-
-Name: 
-House: 
-Year: 
-Position: 
-Stigma: 
-Artifact: 
-Eyes: 
-Hair: 
-Sex: M
-Age: 25
-Birthday: 
-Star Sign: 
-Blood Type: 
-Notes: 
-
-Name: 
-House: 
-Year: 
-Position: 
-Stigma: 
-Artifact: 
-Eyes: 
-Hair: 
-Sex: M
-Age: 25
-Birthday: 
-Star Sign: 
-Blood Type: 
-Notes: 
-
-Name: 
-House: 
-Year: 
-Position: 
-Stigma: 
-Artifact: 
-Eyes: 
-Hair: 
-Sex: M
-Age: 25
-Birthday: 
-Star Sign: 
-Blood Type: 
-Notes: 
+Notes: B
