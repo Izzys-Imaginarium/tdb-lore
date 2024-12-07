@@ -319,5 +319,5 @@ Sex: M
 Age: 25
 Birthday: October 13
 Star Sign: Libra
-Blood Type: 
-Notes: B
+Blood Type: B
+Notes: Jiro was in a prolonged coma following "the Clash" and is kept alive by Yuri's regular medical treatments.
