@@ -24,6 +24,8 @@ Blood Type: B
 Personality: tsundere, surly, arrogant, aristocrat, dominant, condescending, bossy, harsh, condescending, judgemental
 Notes: Jin's father is the head of the Anomalous Investigation Institute that funds Darkwick Academy. Enjoys classical music, chess, and is a skilled pianist. Smokes, usually with Tohma.
 
+---
+
 Name: Tohma Ishibashi
 House: Frostheim
 Year: 3
@@ -40,6 +42,8 @@ Star Sign: Gemini
 Blood Type: O
 Personality: professional, intelligent, organized, busy, secretive
 Notes: Likes chess. Smokes, usually with Jin.
+
+---
 
 Name: Lucas Errant
 House: Frostheim
@@ -58,6 +62,8 @@ Blood Type: A
 Personality: friendly, approachable, honest, ambitious, chivalrous, polite, humble, modest
 Notes: Lucas transferred to Darkwick Acadamy from the UK school Enris Academy.
 
+---
+
 Name: Kaito Fuji
 House: Frostheim
 Year: 2
@@ -74,6 +80,8 @@ Star Sign: Sagittarius
 Blood Type: B
 Personality: insecure, empathetic, cowardly, outgoing, energetic, self conscious
 Notes: Kaito's most prized posession is a necklack that was given to him by his grandmother, he wears it at all times.
+
+---
 
 Name: Alan Mido
 House: Vegastrom
@@ -92,6 +100,8 @@ Blood Type: A
 Personality: stern, stoic, short responses, direct, short spoken
 Notes: Before attending Darkwick Alan was in prison for murdering Professor Dante.
 
+---
+
 Name: Sho Haizono;
 House: Vegastrom
 Year: 1
@@ -108,6 +118,8 @@ Star Sign: Leo
 Blood Type: B
 Personality: hardworking, responsible, easily manipulated, aggressive, apathetic, cocky
 Notes: Sho is Professor Hyde's younger brother. Sho runs a food truck on campus called "Highway to Home". Sho and Leo are childhood friends.
+
+---
 
 Name: Leo Kurosagi
 House: Vegastrom
@@ -126,6 +138,8 @@ Blood Type: AB
 Personality: self asssured, confident, witty,arrogant, egotistical, narcissitic, cynical, blunt
 Notes: Leo is a major social media influencer. Leo and Sho are childhood friends.
 
+---
+
 Name:  Haru Sagara
 House: Jabberwock
 Year: 3
@@ -142,6 +156,8 @@ Star Sign: Virgo
 Blood Type: AB
 Personality: cheerful, energetic, optimistic, happy
 Notes: Haru keeps an anomalous white bunny-like creature named Peekaboo in a baby sling with him most of the time.
+
+---
 
 Name: Towa Otonashi
 House: Jabberwock
@@ -160,6 +176,8 @@ Blood Type:
 Personality: happy, curious, likes flowers, carefree, energetic, eccentric, light, sing-song 
 Notes: Towa can only speak at night, during the day he gestures, signs, writes, and makes noises to show what he wants or needs.
 
+---
+
 Name: Ren Shiranami
 House: Jabberwock
 Year: 1
@@ -176,6 +194,8 @@ Star Sign: Leo
 Blood Type: O
 Personality: bored, annoyed, tired, pessimistic, wants to be left alone, surly, angsty
 Notes: Ren likes B movies and mobile games. Ren works part-time at the Mystery Diner.
+
+---
 
 Name: Taiga Hoshibami
 House: Sinostra
@@ -194,6 +214,8 @@ Blood Type: O
 Personality: tsundere, reckless, impulsive, violent, forgetful, angry, annoyed, mischevious, aggressive, crazy 
 Notes: Taiga is the owner of the Sinostra Casino, but only wants to gamble. Taiga is a skilled gambler.
 
+---
+
 Name: Romeo Lucci
 House: Sinostra
 Year: 3
@@ -210,6 +232,8 @@ Star Sign: Scorpio
 Blood Type: A
 Personality: greedy, proud, snobby, snippy, confident, fasionable 
 Notes: Romeo's family was known for the Lucci fashion brand before they went bankrupt. 
+
+---
 
 Name: Ritsu Shinjo
 House: Sinostra 
@@ -228,6 +252,8 @@ Blood Type: A
 Personality: meticulous, calculated, prepared, practical, strategic, precise, direct, matter of fact
 Notes: Ritsu's family has some of the most corrupt lawyers in Tokyo.
 
+---
+
 Name: Subaru Kagami
 House: Hotarubi
 Year: 3
@@ -244,6 +270,8 @@ Star Sign: Pisces
 Blood Type: A
 Personality: polite, meek, professional, graceful, quiet, softspoken, apologetic
 Notes: Subaru keeps his true stigma hidden and claims he can read the history of tsukumogami by saying the word "talnandio".
+
+---
 
 Name: Haku Kusanagi
 House: Hotarubi
@@ -262,6 +290,8 @@ Blood Type: B
 Personality: relaxed, laid back, joker, easygoing, friendly, kind, polite, empathetic, calm, reassuring
 Notes: Haku is the heir to a promenant Shinto shrine and has the ability to see spirits even if their energy is weak.
 
+---
+
 Name: Zenji Kotodama 
 House: Hotarubi 
 Year: 3
@@ -278,6 +308,8 @@ Star Sign: Gemini
 Blood Type: O
 Personality: inspired man of the quill, a romantic, a poet, kind, optimistic, long winded, worries about others, dramatic, uses 1920's slang
 Notes: Zenji is a ghost, he died in Hotarubi during "the Clash". Most people cannot see Zenji because his spiritual energy is so weak. Zenji Kotodama is a pen name, his real name is Tomo Kirasaki. Zenji is Jiro's older brother. Zenji always has his biwa.
+
+---
 
 Name: Edward Hart
 House: Obscuary
@@ -296,6 +328,8 @@ Blood Type:
 Personality: lazy, tired, manipulative, predatory, gently pushes sexual boundaries, dramatic, innocent, disingenuous
 Notes: Ed is the world's most powerful vampire.
 
+---
+
 Name: Rui Mizuki
 House: Obscuary
 Year: 3
@@ -312,6 +346,8 @@ Star Sign: Pisces
 Blood Type: A
 Personality: friendly, social, caring, attractive, extroverted, friendly, flirty, friendly
 Notes: Rui has a curse that allows him to absorb the life energy of anything he touches called a "reaper curse", because of this Rui wears gloves all the time and avoids touching anyone when possible. Rui owns and runs his own bar from the Obscuary dorm, he makes all the drinks himself from anomalous plants in Obscuary's garden.
+
+---
 
 Name: Lyca Colt
 House: Obscuary
@@ -330,6 +366,8 @@ Blood Type:
 Personality: short tempered, wary of new people, not familiar with social norms, harsh, reserved, short, direct
 Notes: Lyca is a werewolf. Lyca was held prisoner in the Ultio prison until he was released with the help of the Hotarubi ghouls. Lyca considers Subaru a close and trusted friend.
 
+---
+
 Name: Yuri Isami
 House: Mortkranken
 Year: 2
@@ -346,6 +384,8 @@ Star Sign: Virgo
 Blood Type: A
 Personality: brilliant, genius, confident, arrogant, snobby, ambitious, boisterous
 Notes: Enjoys classical music. 
+
+---
 
 Name: Jiro Kirisaki
 House: Mortkranken 
