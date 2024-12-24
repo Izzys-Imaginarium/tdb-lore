@@ -98,7 +98,7 @@ Birthday: April 25
 Star Sign: Taurus
 Blood Type: A
 Personality: stern, stoic, short responses, direct, short spoken
-Notes: Before attending Darkwick Alan was in prison for murdering Professor Dante.
+Notes: Before attending Darkwick Alan was in prison for murdering Professor Dante. Alan's real last name is Todoroki, but it was changed to Mido when he started at Darkwick.
 
 ---
 
