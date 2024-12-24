@@ -84,7 +84,7 @@ Notes: Kaito's most prized posession is a necklack that was given to him by his 
 ---
 
 Name: Alan Mido
-House: Vegastrom
+House: Vagastrom
 Year: 3
 Position: Captain
 Stigma: Alan can temporarily gain super strength by saing the words "yagsal olbalsa".
@@ -103,7 +103,7 @@ Notes: Before attending Darkwick Alan was in prison for murdering Professor Dant
 ---
 
 Name: Sho Haizono;
-House: Vegastrom
+House: Vagastrom
 Year: 1
 Position: Student
 Stigma: Sho can knock back anomalies by saying the word "spurno"
@@ -122,7 +122,7 @@ Notes: Sho is Professor Hyde's younger brother. Sho runs a food truck on campus 
 ---
 
 Name: Leo Kurosagi
-House: Vegastrom
+House: Vagastrom
 Year: 1
 Position: Vice-Captain 
 Stigma: Leo can temporarily enhance his hearing by saying the word "haxs".
