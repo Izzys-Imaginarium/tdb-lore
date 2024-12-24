@@ -18,6 +18,19 @@ A Peekaboo is a soft fluffy white colored rabbit like creature. It can only say 
 
 A Like Dove is an anomalous creature that looks like a normal dove, but pink in color. A Like Dove may appear when someone is thinking about how much they like you.
 
+A Trash Taster is an anomaly that looks like a small grey blob living in a garbage can, it eats any food scraps or leftovers given to it. 
+
+The Kyklos is a curse spread by a monster covered in flower with a large eye, anyone who looks into the eye will become the monster that infected them within one year.
+
+
+Minor Artifacts:
+
+Mezmer Match - when the match is blown out it erases the memory of everyone looking at it that isn't a ghoul
+
+Fox Robe - this is an artifact that a user puts on, imagines a disguise, costume, or outfit and it will appear on their body
+
+Skeleton Key - this key is able to open any lock
+
 ---
 
 Cases completed so far:
