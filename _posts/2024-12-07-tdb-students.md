@@ -311,7 +311,7 @@ Notes: Zenji is a ghost, he died in Hotarubi during "the Clash". Most people can
 
 ---
 
-Name: Edward Hart
+Name: Edward Hart (goes by the name Ed)
 House: Obscuary
 Year: 3
 Position: Captain
