@@ -18,7 +18,9 @@ A Peekaboo is a soft fluffy white colored rabbit like creature. It can only say 
 
 A Like Dove is an anomalous creature that looks like a normal dove, but pink in color. A Like Dove may appear when someone is thinking about how much they like you.
 
-A Trash Taster is an anomaly that looks like a small grey blob living in a garbage can, it eats any food scraps or leftovers given to it. 
+A Trash Taster is an anomaly that looks like a small grey blob living in a garbage can, it eats any food scraps or leftovers given to it.
+
+Ushi-oni are bull-like anomalies that reside in western Japan. They are given sake three times per day.
 
 The Kyklos is a curse spread by a monster covered in flower with a large eye, anyone who looks into the eye will become the monster that infected them within one year.
 
@@ -67,3 +69,9 @@ A-533-844 "Ms. Takamine" (Category: Malevolent Spirit)
 
 Death Sentence, Class B
 A-37-608 "The Executioner" (Category: Ghost Posession)
+
+A Small Case of Symbiosis, Class B
+A-27-62 "Sheepdog" (Category: Local God-Animal)
+
+A Small Case of Symbiosis, Class B
+A-5822-2 "Father Farm Cat" (Category: Cat)
